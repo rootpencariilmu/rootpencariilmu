@@ -1,4 +1,19 @@
 ### Hi there 👋
+<h2> Hi, I'm Ahmad Chen Wang Xuesi <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<p><em>Senior Penetration Tester at <a href="https://github.com/">Github</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em></p>
+
+![root github trophy](https://github-profile-trophy.vercel.app/?username=ahmadchen&theme=dracula)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
+<p>
+
+<a href="mailto:aingwibu9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aingwibu9@gmail.com" alt="Gmail"></a>
+<a href="https://www.instagram.com/cyber_mrlinkerrorsystemoffical/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.comcicicyber.squadindo.7"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
+---
+
+⭐️ From [@ahmadchen](https://github.com/ahmadchen)
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 <!-- OctoCats -->
